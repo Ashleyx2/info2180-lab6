@@ -1,0 +1,27 @@
+  
+html{
+    font-family: "Comic Sans MS", cursive, sans-serif;
+    background-color:rgb(223, 223, 223);
+}
+
+button{
+    background-color: #6a2270;
+    color: #ffffff;
+    border-radius: 20%;
+}
+
+h1{
+    color: #ffffff;
+    margin: 0;
+}
+
+.main_head{
+    margin: 0;
+    padding-bottom: 1.5rem;
+    text-align: center;
+    background-color: #ec67c4;
+}
+
+input {
+    width: 500px;
+}
